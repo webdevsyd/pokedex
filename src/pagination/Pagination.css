@@ -1,0 +1,32 @@
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.justifySpaceBetween {
+  justify-content: space-between;
+}
+
+.justifyFlexStart {
+  justify-content: flex-start;
+}
+
+.justifyFlexEnd {
+  justify-content: flex-end;
+}
+
+.button {
+  padding: 7px 12px;
+  font-size: 16px;
+  color: #fff;
+  cursor: pointer;
+  border: 2px solid transparent;
+  margin-left: 5px;
+  background: none;
+}
+
+.button:hover {
+  color: #3D7DCA;
+  border: 2px solid #3D7DCA;
+  cursor: pointer;
+}

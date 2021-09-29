@@ -1,0 +1,16 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  max-width: 1200px;
+  margin: 50px auto 100px auto;
+  padding: 0 30px;
+}
+
+.paginationWrapper {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  background-color: #FFCB05;
+  padding: 10px 0;
+}
